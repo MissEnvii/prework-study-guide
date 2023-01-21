@@ -13,9 +13,9 @@ footer {
 
     height: 120px;
 
-    background-color: blue;
+    background-color: rgb(183, 217, 233);
 
-    color: white;
+    color: rgb(49, 49, 49);
 
 }
 
@@ -57,3 +57,15 @@ p {
     font-size: 30px;
 
 }
+
+.card {
+
+    width: 80%;
+
+    margin: 40px auto;
+
+    border: 5px solid rgb(199, 252, 225);
+
+    box-shadow: 5px 10px #AFC4BF;
+    
+  }
